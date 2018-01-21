@@ -16,5 +16,6 @@ constant time and space complexity, but this involves more time spent on the cod
 to deal with precise, large numbers which may be unecessary depending on your needs.
 
 Check out my solutions:
-* Using **C**: [Code](https://github.com/jdsandifer/Challenges/blob/master/fibonacci/fibonacci.c), [Repl.it](https://repl.it/@jdsandifer/Fibonacci-Sequence-Number-C)
-* Using **Scheme**: [Code](https://github.com/jdsandifer/Challenges/blob/master/fibonacci/fibonacci.scm), [Repl.it](https://repl.it/@jdsandifer/Fibonacci-Sequence-Number-Scheme)
+* Using **C**: [Code](https://github.com/jdsandifer/Challenges/blob/master/fibonacci/fibonacci.c), [Repl.it](https://repl.it/@jdsandifer/Nth-Fibonacci-C)
+* Using **PHP**: [Code](https://github.com/jdsandifer/Challenges/blob/master/fibonacci/fibonacci.php), [Repl.it](https://repl.it/@jdsandifer/Nth-Fibonacci-PHP)
+* Using **Scheme**: [Code](https://github.com/jdsandifer/Challenges/blob/master/fibonacci/fibonacci.scm), [Repl.it](https://repl.it/@jdsandifer/Nth-Fibonacci-Scheme)
