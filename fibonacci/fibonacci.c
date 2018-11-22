@@ -6,7 +6,7 @@
  * more advanced number structures for dealing with 
  * very large numbers if required. There's also an equation
  * for determining a specific Fibonacci number, but it would take
- * longer to accurately could than the straightforward and reasonably
+ * longer to accurately code than the straightforward and reasonably
  * performant linear, iterative approach.
  * ******************************************************************** */
 
