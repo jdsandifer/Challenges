@@ -80,5 +80,5 @@
                     "Fibonacci #"
                     fib-num
                     " is "
-                    (fib-linear fib-num)))))
+                    result))))
     '(-1 1 2 3 4 5 6 8 17 46 78 79))
